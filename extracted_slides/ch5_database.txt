@@ -1,0 +1,252 @@
+TOTAL PAGES: 24
+
+=== SLIDE 1 ===
+Chapter 
+2
+Information Systems in Organizations
+1
+
+=== SLIDE 2 ===
+Outline
+•Organizations 
+•Categories of organizational structure
+•Organizational culture
+•Reengineering
+•Performance-based information systems
+•IS Careers
+2
+
+=== SLIDE 3 ===
+Organization
+•Formal collection of people and other resources established to 
+accomplish a set of goals
+•A system  
+•Constantly uses money, people, materials, machines and 
+other equipment, data, information, and decisions
+•องค์กร คือ การจัดตั้งบุคคลอย่างเป็นทางการและรวบรวมทรัพยากรต่าง ๆ 
+เพื่อบรรลุเป้าหมายที่ตั้งไว้อย่างเป็นระบบ 
+โดยใช้เงิน คน วัสดุ เครื่องจักร และอุปกรณ์อื่น ๆ ข้อมูล สารสนเทศ และการ
+ตัดสินใจอย่างต่อเนื่อง
+3
+
+=== SLIDE 4 ===
+Organizational Structures
+•โครงสร้างองค์กร (Organizational structure)
+• Organizational subunits and the way they relate to the overall 
+organization
+•หมวดหมู่ของโครงสร้างองค์กร (Categories of organizational 
+structure)
+1. แบบดั้งเดิม (Traditional)
+2. โครงการ (Project)
+ 
+4
+
+=== SLIDE 5 ===
+1. Traditional Organizational Structure
+• Hierarchical structure โครงสร้างลำดับชั้น
+• หัวหน้าแต่ละแผนก รายงานต่อประธานหรือผู้จัดการระดับสูง 
+5
+
+
+=== SLIDE 6 ===
+2. Project and Team Organizational Structures
+•Project organizational structure (โครงสร้างขององค์กรแบบโครงการ) 
+• Centered on major 
+products or 
+services (เน้นที่ผลิตภัณฑ์หรือบริการหลัก)
+• Many project teams are 
+temporary. (ทีมโปรเจ็กต์หลายทีมเป็นทีมชั่วคราว)
+•Team organizational structure (โครงสร้างขององค์กรแบบทีม)
+• Centered on 
+work teams or 
+groups (เน้นที่ทีมงานหรือกลุ่ม)
+• Team can be 
+temporary or permanent, depending on tasks. 
+(ทีมสามารถชั่วคราวหรือถาวรขึ้นอยู่กับงาน)
+6
+
+=== SLIDE 7 ===
+Project and Team Organizational 
+Structures (continued)
+7
+
+=== SLIDE 8 ===
+2. Project and Team Organizational Structures
+• ประธานบริษัท (President) ดูแลหลายโครงการ แต่ละโครงการมี Senior Vice 
+President รองประธานอาวุโส (Project Manager) รับผิดชอบโดยตรง ภายใน
+แต่ละโครงการมีทีมงานจากทุกสายงาน เช่น การเงิน (Finance) 
+• การตลาด (Marketing) 
+• การผลิต (Production) 
+• การขาย (Sales) 
+• ทีมงานทุกฝ่ายทำงานร่วมกันภายใต้ผู้จัดการโครงการเดียว ทำให้ตัดสินใจและ
+ประสานงานได้รวดเร็ว
+8
+
+=== SLIDE 9 ===
+Organizational Culture and Change
+• วัฒนธรรมขององค์กร (Organizational culture) คือ ชุดของค่านิยม ความเชื่อ บรรทัดฐาน และพฤติกรรม
+ที่สมาชิกในองค์กรยึดถือและปฏิบัติร่วมกัน ซึ่งส่งผลต่อวิถีการทำงานและปฏิสัมพันธ์ภายในองค์กร 
+• ตัวอย่างเช่น วัฒนธรรมที่เน้นการทำงานเป็นทีม การสื่อสารที่เปิดกว้าง หรือการให้ความสำคัญกับการพัฒนา
+พนักงาน
+• Major understandings and assumptions
+• Influences information systems
+• Organizational change
+• How organizations plan for, implement, and handle change
+• Change model 9
+
+=== SLIDE 10 ===
+Organizational Culture and Change (continued)
+• Unfreezing
+• Ceasing old habits and creating a climate that is receptive to change 
+ละลายพฤติกรรม เปิดใจกว้างต่อการเปลี่ยนแปลง
+• Moving
+• Learning new work methods, behaviors, and systems 
+เรียนรู้วิธีการทำงานใหม่ ปรับพฤติกรรม และระบบใหม่
+• Refreezing กลับเป็นน้ำแข็งอีกครั้ง 
+• Involves reinforcing changes to make the new process second nature, 
+accepted, and part of the job 
+เปลี่ยนแปลง ยอมรับและเป็นส่วนหนึ่งของงาน
+10
+
+=== SLIDE 11 ===
+Organizational Culture and Change 
+(continued)
+11
+
+=== SLIDE 12 ===
+Reengineering and Continuous Improvement
+•Reengineering การปรับโครงสร้างใหม่ หรือจัดระบบใหม่
+• Process redesign โดยการออกแบบกระบวนการใหม่
+• Radical redesign of business processes, organizational structures, 
+information systems, and values of the organization to achieve a 
+breakthrough in business results. 
+การออกแบบ กระบวนการทางธุรกิจ โครงสร้างองค์กร ระบบสารสนเทศ และ
+ค่านิยมขององค์กรใหม่ เพื่อให้ได้ผลลัพธ์ทางธุรกิจที่ก้าวหน้าพัฒนาอย่างต่อเนื่อง
+•Continuous improvement
+ปรับปรุงกระบวนการทางธุรกิจอย่างต่อเนื่อง
+12
+
+=== SLIDE 13 ===
+Reengineering and Continuous 
+Improvement (continued)
+13
+
+=== SLIDE 14 ===
+Performance-Based Information Systems
+•the use of information systems การใช้ระบบสารสนเทศเพื่อทำอะไร
+• ข้อดีของระบบสารสนเทศ
+• Cost reduction and productivity ลดต้นทุนและเพิ่มผลิตผล
+• Competitive advantage ความได้เปรียบทางการแข่งขัน 
+• Performance-based management การจัดการประสิทธิภาพการทำงานได้
+• ................................1 ข้อ......................
+14
+
+=== SLIDE 15 ===
+ความเสี่ยง (Risk) ของการเริ่มน าระบบสารสนเทศมาใช้
+•Information systems can sometimes be costly failures 
+• ค่าใช้จ่ายสูง
+•Costs of development and implementation can be greater than 
+the returns from the new system 
+• ค่าใช้จ่ายในการพัฒนาและการนำไปใช้อาจมากกว่า ผลตอบแทนจากระบบใหม่
+•........................1 ข้อ........................
+15
+
+=== SLIDE 16 ===
+ค าที่เกี่ยวข้องกับองค์กร
+• ห่วงโซ่คุณค่า (Value chain)
+• Series (chain) of activities that includes inbound logistics, 
+warehouse and storage
+• ภาพรวมของกระบวนการในองค์กรที่เริ่มตั้งแต่การจัดหาวัตถุดิบไปจนถึงขั้นตอน
+สุดท้ายที่ส่งมอบสินค้าให้แก่ลูกค้า โดยที่แต่ละขั้นตอนนั้นสามารถสร้างคุณค่า 
+(Value) ให้กับองค์กรและสินค้าอย่างไม่มีปัญหา
+• การจัดการห่วงโซ่อุปทาน (Supply chain management: SCM) คือ 
+ห่วงโซ่อุปทาน ที่เริ่มจากจัดหาวัตถุดิบและสิ้นสุดเมื่อสินค้าถึงมือลูกค้า
+16
+
+=== SLIDE 17 ===
+Value chain
+17
+
+
+=== SLIDE 18 ===
+ความแตกต่างระหว่าง Supply Chain และ Value Chain
+•Value Chain (ห่วงโซ่คุณค่า)
+• มุ่งเน้นที่การสร้างคุณค่าให้กับลูกค้าตลอดกระบวนการทั้งหมด ตั้งแต่ต้นน้ำจนถึง
+ปลายน้ำ 
+•Supply Chain (ห่วงโซ่อุปทาน)
+• มุ่งเน้นที่การจัดการการไหลเวียนของวัตถุดิบ สินค้า และข้อมูลจากผู้ขายไปยัง
+ผู้บริโภค
+18
+
+=== SLIDE 19 ===
+ตัวอย่าง
+• บริษัท Apple
+• ไม่ได้แค่ผลิต iPhone 
+• ยังมี Mac คอมพิวเตอร์ส่วนบุคคล /iPad แท็บเล็ตคอมพิวเตอร์ Apple Watch
+นาฬิกาอัจฉริยะ
+• รวมถึงการออกแบบ การตลาด การสร้างแบรนด์ และบริการหลังการขาย ซึ่ง
+ทั้งหมดนี้เป็นส่วนหนึ่งของห่วงโซ่คุณค่า 
+• ธุรกิจร้านอาหาร
+• ไม่ได้แค่ทำอาหาร แต่ยังรวมถึงการจัดซื้อ การบริการลูกค้า การสร้างบรรยากาศ 
+และการตลาด ซึ่งทั้งหมดนี้เป็นส่วนหนึ่งของห่วงโซ่คุณค่า 
+19
+
+=== SLIDE 20 ===
+ค าที่เกี่ยวข้องกับองค์กร
+• โปรแกรมการจัดการลูกค้าสัมพันธ์ (Customer relationship management 
+(CRM) programs)
+• การบริหารความสัมพันธ์กับลูกค้า 
+• เป้าหมายก็คือการทำให้ลูกค้ามีความพอใจสูงที่สุดจากการใช้สินค้าหรือบริการ
+• โปรแกรมการจัดการลูกค้าสัมพันธ์ (CRM)
+1. ช่วยให้บริษัทสามารถจัดการการเผชิญหน้ากับลูกค้าได้
+2. สามารถช่วยบริษัทในการรวบรวมข้อมูลการติดต่อลูกค้าและให้ความรู้เกี่ยวกับ
+ผลิตภัณฑ์ใหม่
+20
+
+=== SLIDE 21 ===
+CRM ช่วยองค์กรอย่างไร
+• การจัดการข้อมูลลูกค้า
+• เก็บข้อมูลลูกค้าอย่างละเอียดและเป็นระบบ เช่น ข้อมูลติดต่อ, ประวัติการซื้อ, ความ
+สนใจ
+• การวิเคราะห์ข้อมูล
+• วิเคราะห์ข้อมูลลูกค้าเพื่อทำความเข้าใจพฤติกรรม และความต้องการของลูกค้า ช่วยให้
+สามารถทำการตลาดและขายได้อย่างมีประสิทธิภาพ
+• การเพิ่มยอดขาย
+• ช่วยในการติดตามโอกาสทางการขาย สร้างแคมเปญการตลาด และเพิ่มประสิทธิภาพใน
+การปิดการขาย
+• การบริการลูกค้า
+• ช่วยในการจัดการข้อร้องเรียน, ตอบคำถามลูกค้า, และสร้างความพึงพอใจให้กับลูกค้า
+21
+
+=== SLIDE 22 ===
+ตัวอย่างการใช้งาน CRM ในธุรกิจ
+•Amazon
+• ใช้ CRM เพื่อจัดการข้อมูลลูกค้า ประวัติการซื้อ และแนะนำสินค้าที่ตรงกับความ
+สนใจของลูกค้า
+•AIS
+• ใช้ CRM เพื่อจัดการข้อมูลลูกค้า ให้บริการลูกค้าผ่านแอปพลิเคชัน และนำเสนอ
+โปรโมชั่นที่ตรงกับความต้องการของลูกค้า
+22
+
+=== SLIDE 23 ===
+แบบฝึกหัด
+1. การใช้ระบบสารสนเทศเพื่อทำอะไร ตอบ 1 ข้อ ไม่ซ้ำกับตัวอย่างที่ให้
+2. ความเสี่ยง (Risk) ของการเริ่มนำระบบสารสนเทศมาใช้ ตอบ 1 ข้อ ไม่ซ้ำ
+กับตัวอย่างที่ให้
+23
+
+=== SLIDE 24 ===
+ข้อ 3 อาชีพต่อไปนี้ จงอธิบายว่า 1) ต าแหน่งต่อไปนี้ คืออะไร 2) ท าหน้าที่อะไร 3) ต้องมี
+ความรู้ด้านใด 4) ต้องใช้ประสบการณ์ในการท างานนานเท่าไร
+1) นักวิเคราะห์ข้อมูล (Data Analyst)
+2) นักวิเคราะห์ธุรกิจ (Business Analyst, BA)
+3) นักเขียนโปรแกรมบนเว็บไซต์  (Web Programmer)
+4) นักเขียนโปรแกรม (Software Developer)
+5) นักวิเคราะห์ระบบ  (System Analyst, SA)  
+6) ผู้ดูแลและบริหารระบบ (System Administrator)
+7) UX/UI Designer
+8) ผู้จัดการฐานข้อมูล (Database Administrator)
+9) ผู้เชี่ยวชาญด้านคลาวด์ (Cloud Specialist)
+10) ผู้จัดการโครงการ (Project Manager)
+11) ผู้เชี่ยวชาญด้านความปลอดภัยข้อมูล (Information Security Specialist) 24
+

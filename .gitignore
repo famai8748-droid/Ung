@@ -1,0 +1,7 @@
+# Large binaries
+cloudflared.exe
+
+# Logs and temp files
+*.log
+*.tmp
+__pycache__/

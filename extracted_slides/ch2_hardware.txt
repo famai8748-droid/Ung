@@ -1,0 +1,297 @@
+TOTAL PAGES: 29
+
+=== SLIDE 1 ===
+Chapter 
+5
+Database Systems 
+1
+
+=== SLIDE 2 ===
+ค ำถำมหมำยเลข 1 ถึง 5 เรียกว่ำอะไร
+2
+Primary key
+
+=== SLIDE 3 ===
+3
+Why Learn About Database Systems and Business Intelligence?
+• Database
+• Organized collection of data ที่เก็บข้อมูลที่มีการจัดการแล้ว
+• Database management system (DBMS)
+• Programs that manipulate the database ซอฟต์แวร์หรือโปรแกรมจัดการ
+ฐานข้อมูล
+• ทำหน้าที่เป็นตัวกลางระหว่างผู้ใช้และฐานข้อมูล
+• Database administrator (DBA)
+• Skilled IS professional who directs all activities related to an 
+organization’s database ผู้เชี่ยวชาญที่มีทักษะเป็นผู้ดำเนินกิจกรรมทั้งหมดที่
+เกี่ยวข้องกับฐานข้อมูลขององค์กร
+
+=== SLIDE 4 ===
+4
+Data Management
+•Without data and the ability to process it an organization could 
+not successfully complete most business activities
+ถ้าองค์กร ไม่มีข้อมูลและความสามารถในการประมวลผลข้อมูล จะไม่สามารถ
+ทำให้กิจกรรมทางธุรกิจสำเร็จได้
+•Data consists of raw facts ข้อมูลในองค์กร ที่ประกอบด้วยข้อมูลดิบ 
+•To transform data into useful information it must first be 
+organized in a meaningful way ถูกแปลงให้เป็นข้อมูลที่มีประโยชน์ 
+โดยต้องมีการจัดระเบียบอย่างมีความหมายก่อน
+
+=== SLIDE 5 ===
+5
+The Hierarchy of Data ล ำดับชั้นของข้อมูล
+•Bit (a binary digit) 0,1
+•Byte (Typically made up of eight bits) หลายๆบิต มาเรียงต่อกัน เช่น 
+8 บิตมาเรียงต่อกันเป็น 1 ไบต์ เช่น 10100001 หมายถึง ก
+•Character 
+•Field 
+• ไบต์ (byte) หลายๆ ไบต์ มาเรียงต่อกัน เรียกว่า เขตข้อมูล (field) เช่น Name 
+ใช้เก็บชื่อ
+
+=== SLIDE 6 ===
+6
+The Hierarchy of Data (continued)
+• Record
+• Collection of related data fields 
+• เมื่อนำ fields หลายๆ fields มาเรียงต่อกัน เรียกว่า record เช่น record ที่ 1 
+เก็บ ชื่อ นามสกุล วันเดือนปีเกิด ของ นักเรียนคนที่ 1 เป็นต้น
+• File
+• Collection of related records 
+• การเก็บ records หลายๆ records รวมกัน เรียกว่า แฟ้มข้อมูล (File) เช่น 
+แฟ้มข้อมูล นักเรียน จะเก็บ ชื่อ นามสกุล วันเดือนปีเกิด ของนักเรียน จำนวน 
+500 คน เป็นต้น
+• Database
+• Collection of integrated and related files
+• การจัดเก็บ File หลายๆ File ไว้ภายใต้ระบบเดียวกัน เรียกว่า ฐานข้อมูล หรือ 
+Database เช่น เก็บแฟ้มข้อมูล นักเรียน อาจารย์ วิชาที่เปิดสอน เป็นต้น
+
+
+=== SLIDE 7 ===
+7
+The Hierarchy of Data (continued)
+
+=== SLIDE 8 ===
+8
+Data Entities, Attributes, and Primary Keys
+• Entity
+• Generalized class of people, places, or things (objects) for which data is 
+collected, stored, and maintained คน สถานที่ หรือ วัตถุ  ซึ่งเป็นข้อมูลที่ต้องการ
+รวบรวม จัดเก็บ และรักษา
+• Attribute
+• Characteristic of an entity
+• Data item
+• Specific value of an attribute
+• Primary key
+• Field or set of fields that uniquely identifies the record
+
+
+=== SLIDE 9 ===
+9
+The Database Approach
+•Traditional approach to data management วิธีการดั้งเดิมในการ
+จัดการข้อมูล 
+• Separate data files are created and stored for each application 
+program ไฟล์ข้อมูล ถูกสร้างและจัดเก็บแต่ละโปรแกรมแยกกัน
+•Database approach to data management
+• Pool of related data is shared by multiple application programs
+
+=== SLIDE 10 ===
+10
+The Database Approach (continued)
+
+=== SLIDE 11 ===
+11
+Data Modeling and Database Characteristics
+•When building a database, an organization must consider: 
+• Content: What data should be collected and at what cost? ข้อมูลใด
+ที่ควรรวบรวมและมีค่าใช้จ่ายเท่าไร
+• Access: What data should be provided to which users and when? 
+ข้อมูลใดที่ควรให้กับผู้ใช้และเมื่อใด
+• Logical structure: How should data be arranged so that it makes 
+sense to a given user? ควรมีการจัดเรียงข้อมูลอย่างไรเพื่อให้เหมาะสมกับ
+ผู้ใช้ที่ได้รับ
+• Physical organization: Where should data be physically located? 
+ข้อมูลควรอยู่ที่ใด
+
+=== SLIDE 12 ===
+12
+Data Modeling
+• Building a database requires two types of designs
+• Logical design
+• Abstract model of how data should be structured and arranged to meet an 
+organization’s information needs แบบจำลองนามธรรมของวิธีการจัดโครงสร้างข้อมูล
+และจัดเรียงเพื่อให้สอดคล้องกับความต้องการข้อมูลขององค์กร
+• Physical design
+• Starts from the logical database design and fine-tunes it for performance and 
+cost considerations เริ่มต้นจากการออกแบบฐานข้อมูลเชิงตรรกะ และปรับแต่งเพื่อการ
+พิจารณาประสิทธิภาพและค่าใช้จ่าย โครงสร้างข้อมูลและการจัดเก็บวิธีการเข้าถึงข้อมูล 
+รวมถึงการจัดการด้านระบบความ ปลอดภัย เพื่อให้ฐานข้อมูลท างานได้อย่างมีประสิทธิผล
+มาก 
+
+=== SLIDE 13 ===
+13
+Data Modeling (continued)
+• Data model
+• Diagram of data entities and their relationships ไดอะแกรมของเอนทิตีข้อมูล
+และความสัมพันธ์ข้อมูล
+• Enterprise data modeling 
+• Starts by investigating the general data and information needs of the 
+organization at the strategic level การสร้างแบบจำลองข้อมูลองค์กร เริ่มต้นด้วย
+การตรวจสอบข้อมูลทั่วไปและความต้องการข้อมูลขององค์กรในระดับยุทธศาสตร์
+• Entity-relationship (ER) diagrams
+• Data models that use basic graphical symbols to show the organization of 
+and relationships between data ตัวแบบข้อมูลที่ใช้สัญลักษณ์กราฟิกพื้นฐานเพื่อ
+แสดงความสัมพันธ์ระหว่างข้อมูล
+
+=== SLIDE 14 ===
+14
+Entity relationship diagram
+
+
+=== SLIDE 15 ===
+15
+Entity relationship diagram
+โจทย์ จงเพิ่ม ประเภทสินค้า ประกอบด้วย รหัสประเภท ชื่อประเภท ค าอธิบาย รูป พร้อมกับเชื่อมความสัมพันธ์
+
+=== SLIDE 16 ===
+16
+The Relational Database Model
+•Relational model 
+• Describes data using a standard tabular format อธิบายข้อมูลโดยใช้
+รูปแบบตารางมาตรฐาน
+• Each row of a table represents a data entity แต่ละแถวของตารางแสดง
+ถึงเอนทิตีข้อมูล
+• Columns of the table represent attributes คอลัมน์ของตารางแสดงถึงแอ
+ตทริบิวต์
+• Domain
+• Allowable values for data attributes ค่าสำหรับแอตทริบิวต์ 
+
+=== SLIDE 17 ===
+17
+The Relational Database Model 
+(continued)
+
+=== SLIDE 18 ===
+18
+The Relational Database Model (continued)
+• Manipulating Data จัดการข้อมูล
+• Selecting การเลือก 
+• Eliminates rows according to certain criteria กำจัดแถวโดยมีเกณฑ์ที่แน่นอน
+• Projecting
+• Eliminates columns in a table กำจัดคอลัมน์ในตาราง
+• Joining
+• Combines two or more tables การรวมสองตารางขึ้นไป
+• Linking
+• Manipulating two or more tables that share at least one common data 
+attribute การจัดการตารางสองตารางขึ้นไปที่แชร์แอ็ตทริบิวต์ข้อมูลทั่วไปอย่างน้อยหนึ่ง
+รายการ
+
+=== SLIDE 19 ===
+Database Management Systems (DBMSs)
+•Creating and implementing the right database system การสร้าง
+และการใช้ระบบฐานข้อมูลที่เหมาะสม
+• Ensures that the database will support both business activities and 
+goals ตรวจสอบให้แน่ใจว่าฐานข้อมูลจะสนับสนุนทั้งกิจกรรมทางธุรกิจและ
+เป้าหมายธุรกิจ
+19
+
+=== SLIDE 20 ===
+20
+Overview of Database Types
+• Flat file
+• Simple database program whose records have no relationship to one 
+another คือ โปรแกรมฐานข้อมูลอย่างง่ายที่มีบันทึกไม่มีความสัมพันธ์ซึ่งกันและกัน
+• Single user ผู้ใช้คนเดียว
+• Only one person can use the database at a time สามารถใช้ฐานข้อมูลได้ครั้งละหนึ่ง
+คนเท่านั้น
+• Examples: Access, FileMaker 
+• Multiple user
+• Allows dozens or hundreds of people to access the same database system at 
+the same time อนุญาตให้ผู้ใช้หลายสิบหรือหลายร้อยคนเข้าถึงระบบฐานข้อมูลเดียวกันใน
+เวลาเดียวกัน
+• Examples: Oracle, Sybase, and IBM
+
+=== SLIDE 21 ===
+21
+Providing a User View
+•Schema โครงสร้างข้อมูลหรือนิยามข้อมูล
+• Used to describe the entire database ใช้เพื่ออธิบายฐานข้อมูลทั้งหมด
+• Can be part of the database or a separate schema file สามารถเป็น
+ส่วนหนึ่งของฐานข้อมูล
+
+=== SLIDE 22 ===
+22
+Creating and Modifying the Database
+•Data definition language (DDL)
+• Collection of instructions and commands used to define and describe 
+data and relationships in a specific database ชุดคำสั่งและคำสั่งที่ใช้ เพื่อ
+กำหนดและอธิบายข้อมูลและความสัมพันธ์ในฐานข้อมูล
+• DDL เป็นส่วนหนึ่งของ SQL (Structured Query Language) ใช้สำหรับกำหนด
+โครงสร้างของฐานข้อมูล เช่น การสร้างตาราง (CREATE), การแก้ไข (ALTER), การ
+ลบ (DROP)
+•Data dictionary
+• Detailed description of all the data used in the database
+
+=== SLIDE 23 ===
+23
+Storing and Retrieving Data
+•When an application program needs data
+• It requests the data through the DBMS 
+• เมื่อแอพพลิเคชั่นต้องการข้อมูล จะขอข้อมูลผ่าน DBMS
+•Concurrency control
+• Can be used to avoid this potential problem
+• การควบคุมภาวะพร้อมกัน สามารถใช้เพื่อหลีกเลี่ยงปัญหาที่อาจเกิดขึ้น
+
+=== SLIDE 24 ===
+24
+Manipulating Data and Generating Reports
+•Data manipulation language (DML)
+• Commands that manipulate the data in a database คำสั่งที่จัดการกับ
+ข้อมูลในฐานข้อมูล
+•Structured Query Language (SQL)
+• Adopted by the American National Standards Institute (ANSI) as the 
+standard query language for relational databases
+
+=== SLIDE 25 ===
+25
+Database Administration
+•DBA 
+• Works with users to decide the content of the database
+• Works with programmers as they build applications to ensure that 
+their programs comply with database management system 
+standards and conventions
+
+=== SLIDE 26 ===
+26
+Selecting a Database Management System
+•Important characteristics of databases to consider
+• Database size
+• Database cost
+• Concurrent users
+• Performance
+• Integration
+• Vendor
+
+=== SLIDE 27 ===
+27
+Using Databases with Other Software
+•DBMSs can act as front-end or back-end applications 
+• Front-end applications interact directly with people or users
+• Back-end applications interact with other programs or applications
+
+=== SLIDE 28 ===
+28
+Data Warehouses, Data Marts, and Data Mining
+•Data warehouse
+• Database that holds business information from many sources in 
+the enterprise
+•Data mart
+• Subset of a data warehouse
+•Data mining
+• Information-analysis tool that involves the automated discovery of 
+patterns and relationships in a data warehouse
+
+=== SLIDE 29 ===
+29
+Data Warehouses, Data Marts, and Data Mining (continued)
+

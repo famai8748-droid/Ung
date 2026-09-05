@@ -1,0 +1,267 @@
+TOTAL PAGES: 27
+
+=== SLIDE 1 ===
+Chapter 
+3
+Software: Systems and Application Software
+1
+
+=== SLIDE 2 ===
+Software
+•ซอฟต์แวร์ (Software) คือ ชุดคำสั่งหรือโปรแกรมที่ควบคุมการทำงานของ
+คอมพิวเตอร์และอุปกรณ์อิเล็กทรอนิกส์ต่างๆ 
+•แบ่งออกเป็น 2 ประเภทหลัก คือ
+1. ซอฟต์แวร์ระบบ (System Software) 
+2. ซอฟต์แวร์ประยุกต์ (Application Software)
+2
+
+=== SLIDE 3 ===
+3
+Software
+1. ซอฟแวร์ระบบ (Systems Software) คือ ชุดของโปรแกรมที่ประสานให้ฮาร์ดแวร์และโปรแกรม
+ให้ทำงานร่วมกันได้ ทำหน้าที่ควบคุมการทำงานพื้นฐานของคอมพิวเตอร์และอุปกรณ์ต่างๆ รวมถึงการ
+จัดการทรัพยากรของระบบ เช่น ระบบปฏิบัติการ (Operating System) DOS, UNIX, WINDOWS, 
+OS, Linux
+2. ซอฟแวร์ประยุกต์ (Application Software) คือ ซอฟต์แวร์หรือโปรแกรมที่ทำให้คอมพิวเตอร์
+ทำงานต่าง ๆ ตามที่ผู้ใช้ต้องการ เพื่อทำงานเฉพาะด้าน
+เช่น 1. โปรแกรมประมวลผลคํา 2. โปรแกรมตารางคํานวณ 3. โปรแกรมนําเสนอ 4. โปรแกรมจัดการ
+ฐานข้อมูล 5. โปรแกรม Antivirus 6. ซอฟต์แวร์สําหรับการจัดการภาพกราฟิก 7. ซอฟต์แวร์สร้าง
+เว็บไซต์ 8. ซอฟต์แวร์ตัดต่อเสียงและวิดีโอ
+
+=== SLIDE 4 ===
+Types of systems software ชนิดของซอฟต์แวร์ระบบ
+1. Operating systems (OS) ระบบปฏิบัติการ
+2. Utility programs โปรแกรมอรรถประโยชน์
+3. Middleware
+4
+
+=== SLIDE 5 ===
+5
+1. Operating Systems ระบบปฏิบัติการ
+• คือ Set of programs that controls computer hardware and acts as an 
+interface with application programs
+ชุดโปรแกรมที่ควบคุมฮาร์ดแวร์คอมพิวเตอร์ และทำหน้าที่เป็นส่วนติดต่อ
+ประสานกับโปรแกรมแอปพลิเคชัน
+• Kernel
+• Ties all components of the OS together and regulates other programs 
+เป็นแก่น ซึ่งเป็นส่วนสำคัญของระบบระบบปฏิบัติการ ช่วยในการติดต่อกับ
+ส่วนประกอบทั้งหมดของระบบปฏิบัติการเข้าด้วยกันและควบคุมโปรแกรมอื่น ๆ
+
+=== SLIDE 6 ===
+1. Operating Systems (continued) 
+•Activities performed by the operating system
+1.1 Perform common computer hardware functions
+1.2 Provide a user interface and input/output management
+1.3 Provide a degree of hardware independence
+1.4 Manage system memory
+1.5 Manage processing tasks จัดการงานด้านการประมวลผล
+1.6 Provide networking capability จัดเตรียมความสามารถด้านเครือข่าย
+1.7 Control access to system resources ควบคุมการเข้าถึงทรัพยากรระบบ
+1.8 Manage files จัดการไฟล์
+6
+
+=== SLIDE 7 ===
+7
+Operating Systems (continued)
+
+=== SLIDE 8 ===
+8
+Operating Systems (continued)
+1.1 Common hardware functions
+• Get input from keyboard or some other input device
+• Retrieve data from disks
+• Store data on disks
+• Display information on a monitor or printer
+
+=== SLIDE 9 ===
+9
+Operating Systems (continued)
+1.2 User interface and input/output management
+• User interface
+• Allows individuals to access and command the computer system
+• Command-based user interface
+• Requires that text commands be given to the computer to perform 
+basic activities
+• Graphical user interface (GUI)
+• Uses icons and menus displayed on screen to send commands to the 
+computer system
+
+=== SLIDE 10 ===
+User interface
+10
+Command-based user interface
+ Graphical user interface (GUI)
+
+=== SLIDE 11 ===
+11
+Operating Systems (continued)
+1.3 Hardware independence
+• Application program interface (API)
+• Allows applications to make use of the operating system
+1.4 Memory management
+• Allows computer to execute program instructions effectively and to 
+speed processing
+
+=== SLIDE 12 ===
+12
+Operating Systems (continued)
+
+=== SLIDE 13 ===
+13
+1.5 Processing tasks
+• Multitasking
+• More than one program can run at the same time สามารถทำงานมากกว่าหนึ่ง
+โปรแกรมในเวลาเดียวกัน
+• Time-sharing
+• Allows more than one person to use a computer system at the same time 
+อนุญาตให้มากกว่าหนึ่งคนใช้ระบบคอมพิวเตอร์ในเวลาเดียวกัน
+• Scalability
+• Ability of the computer to handle an increasing number of concurrent users 
+smoothly ความสามารถของคอมพิวเตอร์ในการจัดการจำนวนผู้ใช้งานพร้อมกันที่เพิ่มขึ้น
+อย่างราบรื่น
+Operating Systems (continued)
+
+=== SLIDE 14 ===
+Operating Systems (continued)
+1.6 Networking capability ความสามารถด้านเครือข่าย 
+• Allows computers in a network to send and receive data and share 
+computing resources อนุญาตให้คอมพิวเตอร์ในเครือข่ายรับส่งข้อมูลและแบ่งปัน
+ทรัพยากรการคำนวณ
+1.7 Access to system resources and security การเข้าถึงทรัพยากรระบบ
+และความปลอดภัย
+• Protection against unauthorized access ป้องกันการเข้าถึงที่ไม่ได้รับอนุญาต
+• Logins and passwords การเข้าสู่ระบบและรหัสผ่าน
+1.8 File management การจัดการไฟล์
+• Ensures that files in secondary storage are available when needed and 
+that they are protected from access by unauthorized users
+14
+
+=== SLIDE 15 ===
+15
+Current Operating Systems
+•Microsoft PC operating systems
+•Apple Computer Operating Systems
+•Linux 
+
+=== SLIDE 16 ===
+16
+Workgroup Operating Systems
+•Windows Server
+•UNIX
+•Mac OS X Server
+
+=== SLIDE 17 ===
+17
+Utility Programs
+•Hardware utilities 
+•Security Utilities ระบบรักษาความปลอดภัย
+•File-compression utilities ยูทิลิตี้การบีบอัดไฟล์
+•Spam and pop-up blocker utilities
+
+=== SLIDE 18 ===
+18
+Utility Programs (continued)
+•Network and Internet utilities
+•Server and mainframe utilities
+•Other utilities
+• Manages and protects corporate documents
+• Helps people with visual disabilities use the Internet
+• Monitors employees
+• Searches for files and documents 
+
+=== SLIDE 19 ===
+19
+Middleware
+• Middleware: Software that allows different systems to communicate 
+and exchange data ซอฟต์แวร์ที่ช่วยให้ระบบต่าง ๆ สามารถสื่อสารและ
+แลกเปลี่ยนข้อมูลได้
+• Can also be used as an interface between the Internet and older 
+legacy systems สามารถใช้เป็นส่วนต่อประสานระหว่างอินเทอร์เน็ตและระบบ
+เก่าได้
+• Service-oriented architecture (SOA)
+• Uses modular application services to allow users to interact with systems, 
+and systems to interact with each other ใช้บริการแอปพลิเคชันแบบเป็นส่วน ๆ 
+เพื่อให้ผู้ใช้สามารถโต้ตอบกับระบบและระบบเพื่อโต้ตอบซึ่งกันและกัน
+
+=== SLIDE 20 ===
+20
+Application Software
+•Application programs 
+• Interact with systems software  
+• Help you perform common tasks, such as: 
+• Creating and formatting text documents
+• Performing calculations
+• Managing information
+
+=== SLIDE 21 ===
+21
+Personal Application Software
+•Word processing
+•Spreadsheet analysis
+•Database applications
+•Graphics program
+•Personal information managers
+•Software suites and integrated software packages
+•Other personal application software
+
+=== SLIDE 22 ===
+22
+Workgroup Application Software
+•Support teamwork, whether people are in the same location 
+or dispersed around the world
+•Groupware
+• Software that helps groups of people work together more 
+efficiently and effectively
+
+=== SLIDE 23 ===
+23
+Enterprise Application Software
+•Software that benefits an entire organization
+•Enterprise resource planning (ERP) software
+• Set of integrated programs that manage a company’s vital business 
+operations for an entire multisite, global organization
+
+=== SLIDE 24 ===
+24
+ค าว่า Copyrights and Licenses
+•Most software products are protected by law using copyright or 
+licensing provisions
+• In some cases, you are given unlimited use of software on one or 
+two computers
+• In other cases, you pay for your usage - if you use the software 
+more, you pay more
+•Some software now requires that you register or activate it 
+before it can be fully used. ซอฟต์แวร์บางตัวต้องการให้ลงทะเบียน 
+หรือเปิดใช้งานก่อน จึงจะสามารถใช้งานได้อย่างสมบูรณ์
+
+=== SLIDE 25 ===
+25
+ค าว่า Open-Source Software
+•ซอฟต์แวร์ที่มีซอร์สโค้ดที่ทุกคนสามารถตรวจสอบ แก้ไข และปรับปรุงได้ 
+•Software freely available to anyone in a form that can be easily 
+modified
+•More reliable and secure than commercial software
+•Can contain hidden costs, particularly for user support or 
+solving problems with the software
+
+=== SLIDE 26 ===
+26
+ค าว่า Shareware, Freeware 
+•Freeware คือซอฟต์แวร์ที่ให้ใช้งานได้ฟรีโดยไม่มีค่าใช้จ่ายและไม่มีข้อจำกัด
+เรื่องระยะเวลา ไม่สามารถแก้ไขซอร์สโค้ดได้
+•Shareware เป็นซอฟต์แวร์ที่ให้ทดลองใช้ฟรีในช่วงเวลาจำกัด หรืออาจมี
+ฟังก์ชันบางอย่างถูกจำกัดไว้ และเมื่อหมดระยะเวลาทดลองหรือต้องการใช้
+ฟังก์ชันที่ถูกจำกัด จะต้องเสียค่าใช้จ่ายเพื่อซื้อตัวเต็ม ไม่สามารถแก้ไขซอร์
+สโค้ดได้
+
+=== SLIDE 27 ===
+27
+Software Upgrades ท าไมต้อง Upgrade SW
+•Software companies revise their programs and sell new versions 
+periodically
+•Revised software may or may not offer any major additional 
+capabilities
+•Revised software can contain bugs or errors
+•Software upgrades usually cost much less than the original 
+purchase price
+
